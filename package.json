@@ -1,0 +1,14 @@
+{
+  "name": "rainbow-red",
+  "version": "1.0.0",
+  "description": "javascript utils methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "leonayang",
+  "license": "ISC"
+}
